@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": ""
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "/2020/sports/chips-list"
+    }
+  },
+  "title": "Chips List 2020: These are the top 100 football recruits in Washington state",
+  "description": "The Seattle Times' annual Chips List reveals the top 100 football prospects in Washington state, including ratings for our blue, red and white chips.",
+  "author": "Nathan Joyce",
+  "url": "https://projects.seattletimes.com/2020/sports/chips-list/",
+  "post_id": 12418259,
+  "image": "assets/social.jpg",
+  "sheets": ["1iXUZAJP-WnX35zEBFLSMXLBI1WYaveSb2YrPy2NeiIg"],
+  "docs": [],
+  "embedded": true,
+  "production": true
+}
